@@ -1,0 +1,8 @@
+config SHIELD_STAINLESS_LEFT
+    def_bool $(shields_list_contains,stainless_left)
+  
+config SHIELD_STAINLESS_RIGHT
+    def_bool $(shields_list_contains,stainless_right)
+  
+config SHIELD_STAINLESS_DONGLE
+    def_bool $(shields_list_contains,stainless_dongle)

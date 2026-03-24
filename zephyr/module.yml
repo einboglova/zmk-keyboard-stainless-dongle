@@ -1,0 +1,5 @@
+name: zmk-keyboard-stainless
+build:
+  settings:
+    board_root: .
+    snippet_root: .
