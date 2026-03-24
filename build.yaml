@@ -19,7 +19,8 @@
 #
 ---
 include:
-
+  - board: nice_nano_v2
+    shield: stainless
   - board: nice_nano_v2
     shield: stainless_left nice_view
 
